@@ -10,6 +10,7 @@ public class HelloPerson {
         System.out.println("Age: 18");
         System.out.println("Adresse: Tetouan-Lhemama");
         System.out.println("Favorite Color: Black-Pink");
+        System.out.println("Nickname: MarouaJabroun");
     }
 
 }
